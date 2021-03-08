@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+    background-color: steelblue;
+    text-align: center;
+    border: 2px solid steelblue;
+    padding: 50px;
+    margin: 0px 0px;
+}
+
+.RegistrationDetails{
+    color: steelblue;
+}
+
+.idk{
+    border-style: hidden;
+    border-bottom: 2px solid gray;
+    padding: 20px;
+    padding-right: 40px;
+}
+
+.qwe{
+    border-style: hidden;
+    border-bottom: 2px solid gray;
+    padding: 20px;
+    padding-right: 40px;
+}
+
+.register{
+    padding-top: 15px;
+}

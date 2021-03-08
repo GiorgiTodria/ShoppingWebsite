@@ -1,0 +1,22 @@
+
+* {
+    box-sizing: border-box ;
+}
+
+
+.column{
+    border: 1px solid black;
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
+
+.row{
+    content: "";
+    display: table;
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+}
